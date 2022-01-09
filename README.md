@@ -1,4 +1,4 @@
-# 🔥PORTION WATERMARKING - Helps you in Detection and Retrieval from Illegal manipulations of Image during it's transmission.
+# 🔥Portion Watermarking - Helps you in Detection and Retrieval from Illegal manipulations of Image during it's transmission.
 
 ![Portion-Watermarking](https://socialify.git.ci/suva007/Portion-Watermarking/image?description=1&descriptionEditable=Security%20Enhancement%20Using%20Combined%20DCT-DWT%20Digital%20Image%20Watermarking%20Technique&font=Bitter&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
 
